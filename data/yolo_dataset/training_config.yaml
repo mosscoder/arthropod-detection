@@ -1,0 +1,52 @@
+
+# Custom YOLOv8 training configuration for arthropod detection
+# Optimized for on-the-fly cropping of large petri dish images
+
+# Image settings
+imgsz: 1280  # Training image size (crops generated on-the-fly)
+
+# Augmentation settings - optimized for scientific imagery
+hsv_h: 0.010  # Image HSV-Hue augmentation (fraction) - conservative for scientific data
+hsv_s: 0.5    # Image HSV-Saturation augmentation (fraction)
+hsv_v: 0.3    # Image HSV-Value augmentation (fraction)
+degrees: 0.0  # Image rotation (+/- deg) - disabled since we handle rotation in preprocessing
+translate: 0.1  # Image translation (+/- fraction) - allows for crop positioning variation
+scale: 0.3    # Image scale (+/- gain) - moderate scaling for object size variation  
+shear: 0.0    # Image shear (+/- deg) - disabled for scientific accuracy
+perspective: 0.0  # Image perspective (+/- fraction) - disabled for scientific accuracy
+flipud: 0.0   # Image flip up-down (probability) - disabled for scientific orientation
+fliplr: 0.5   # Image flip left-right (probability) - safe for arthropods
+mosaic: 0.0   # Image mosaic (probability) - disabled for scientific imagery
+mixup: 0.0    # Image mixup (probability) - disabled for scientific imagery
+copy_paste: 0.0  # Segment copy-paste (probability) - disabled
+
+# Training hyperparameters optimized for small object detection
+lr0: 0.01     # Initial learning rate (SGD=1E-2, Adam=1E-3)
+lrf: 0.001    # Final learning rate (lr0 * lrf)
+momentum: 0.937  # SGD momentum/Adam beta1
+weight_decay: 0.0005  # Optimizer weight decay 5e-4
+warmup_epochs: 3.0  # Warmup epochs (fractions ok)
+warmup_momentum: 0.8  # Warmup initial momentum
+warmup_bias_lr: 0.1  # Warmup initial bias lr
+box: 0.05     # Box loss gain
+cls: 0.5      # Class loss gain  
+dfl: 1.5      # DFL loss gain
+pose: 12.0    # Pose loss gain (pose datasets only)
+kobj: 1.0     # Keypoint obj loss gain (pose datasets only)
+label_smoothing: 0.0  # Label smoothing (fraction)
+nbs: 64       # Nominal batch size
+overlap_mask: True  # Masks should overlap during training (segment train only)
+mask_ratio: 4  # Mask downsample ratio (segment train only)
+dropout: 0.0  # Use dropout regularization (classify train only)
+
+# Validation settings
+val: True     # Validate/test during training
+split: val    # Dataset split to use for validation (train/val/test)
+save_json: True  # Save results to JSON file
+save_hybrid: False  # Save hybrid version of labels (labels + additional predictions)
+conf: 0.25    # Object confidence threshold for detection
+iou: 0.7      # Intersection over Union (IoU) threshold for NMS
+max_det: 300  # Maximum number of detections per image
+half: False   # Use half precision (FP16)
+dnn: False    # Use OpenCV DNN for ONNX inference
+plots: True   # Save plots during train/val
