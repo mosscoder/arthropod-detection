@@ -1,0 +1,44 @@
+name: arthropod_detector
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  # Core Python and data science stack
+  - python=3.12
+  - numpy
+  - pillow
+  - matplotlib
+  - pyyaml
+  - python-dotenv
+  
+  # Geospatial and image processing
+  - gdal
+  
+  # PyTorch ecosystem (for data loading utilities)
+  - pytorch
+  - torchvision
+  
+  # Scientific computing utilities
+  - scikit-learn
+  
+  # Development and notebook support
+  - jupyter
+  - ipykernel
+  
+  # Python package manager for pip dependencies
+  - pip
+  
+  # Pip-only dependencies
+  - pip:
+    # YOLOv8 and computer vision
+    - ultralytics
+    
+    # Google Drive API for data download
+    - google-api-python-client
+    - google-auth
+    - google-auth-oauthlib
+    - google-auth-httplib2
+    
+    # Additional image processing if needed
+    - opencv-python
