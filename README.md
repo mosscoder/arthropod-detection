@@ -18,6 +18,9 @@ The system uses an object detection model (YOLOv11 medium) combined with a techn
 3. **Result Combination**: Detections from all tiles are merged to create the final result
 4. **Validation**: The system compares its findings against human-annotated ground truth
 
+## ToDo's 
+Currently the pipeline detects all bugs, and is not sensitive to species. I plan to stack a classifier on to the detector to attain species-level metrics.
+
 ## Performance Results
 
 Our system has been tested on 29 test images containing 565 arthropods total:
@@ -147,5 +150,3 @@ arthropod-detection/
     ├── 05_yolo_train.py         # Model training
     └── 06_inference.py          # Inference and evaluation
 ```
-** ToDo's 
-Currently the pipeline detects all bugs, and is not sensitive to species. I plan to stack a classifier on to the detector to attain species-level metrics.
