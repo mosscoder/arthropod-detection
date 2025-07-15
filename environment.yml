@@ -34,6 +34,9 @@ dependencies:
     # YOLOv8 and computer vision
     - ultralytics
     
+    # SAHI for sliced inference
+    - sahi>=0.11.0
+    
     # Google Drive API for data download
     - google-api-python-client
     - google-auth

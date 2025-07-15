@@ -12154,7 +12154,7 @@
       50101,
       53692
     ],
-    "split": "val"
+    "split": "train"
   },
   {
     "id": 134921097,
@@ -14843,7 +14843,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "test"
   },
   {
     "id": 134921098,
@@ -15770,7 +15770,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "val"
+    "split": "train"
   },
   {
     "id": 134921102,
@@ -15923,7 +15923,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "test"
+    "split": "val"
   },
   {
     "id": 134921103,
@@ -16240,7 +16240,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "test"
   },
   {
     "id": 134921104,
@@ -16417,7 +16417,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "val"
+    "split": "train"
   },
   {
     "id": 134921105,
@@ -18213,7 +18213,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "val"
+    "split": "train"
   },
   {
     "id": 134921106,
@@ -18570,7 +18570,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "test"
+    "split": "train"
   },
   {
     "id": 134921107,
@@ -19299,7 +19299,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "val"
   },
   {
     "id": 134921109,
@@ -20936,7 +20936,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "val"
   },
   {
     "id": 134921110,
@@ -21453,7 +21453,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "val"
   },
   {
     "id": 134921111,
@@ -22624,7 +22624,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "val"
   },
   {
     "id": 134921114,
@@ -25520,7 +25520,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "test"
+    "split": "val"
   },
   {
     "id": 134921121,
@@ -26077,7 +26077,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "val"
   },
   {
     "id": 134921122,
@@ -28605,7 +28605,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "val"
+    "split": "train"
   },
   {
     "id": 134921126,
@@ -29122,7 +29122,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "test"
+    "split": "train"
   },
   {
     "id": 134921127,
@@ -29759,7 +29759,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "val"
   },
   {
     "id": 134921128,
@@ -31887,7 +31887,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "val"
+    "split": "test"
   },
   {
     "id": 134921132,
@@ -32404,7 +32404,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "val"
+    "split": "test"
   },
   {
     "id": 134921133,
@@ -35829,7 +35829,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "test"
   },
   {
     "id": 134921138,
@@ -36366,7 +36366,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "test"
+    "split": "train"
   },
   {
     "id": 134921139,
@@ -38951,7 +38951,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "test"
+    "split": "val"
   },
   {
     "id": 134921144,
@@ -39408,7 +39408,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "val"
   },
   {
     "id": 134921145,
@@ -42885,7 +42885,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "val"
+    "split": "train"
   },
   {
     "id": 134921146,
@@ -45982,7 +45982,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "val"
+    "split": "test"
   },
   {
     "id": 134921147,
@@ -47099,7 +47099,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "val"
+    "split": "train"
   },
   {
     "id": 134921148,
@@ -52093,7 +52093,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "val"
   },
   {
     "id": 134921150,
@@ -53430,7 +53430,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "val"
+    "split": "train"
   },
   {
     "id": 134921151,
@@ -54884,7 +54884,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "val"
+    "split": "train"
   },
   {
     "id": 134921153,
@@ -56698,7 +56698,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "val"
+    "split": "train"
   },
   {
     "id": 134921155,
@@ -57035,7 +57035,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "val"
   },
   {
     "id": 134921156,
@@ -59039,7 +59039,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "val"
   },
   {
     "id": 134921161,
@@ -62062,7 +62062,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "test"
+    "split": "train"
   },
   {
     "id": 134921165,
@@ -63079,7 +63079,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "val"
+    "split": "test"
   },
   {
     "id": 134921166,
@@ -67898,7 +67898,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "val"
+    "split": "train"
   },
   {
     "id": 134921172,
@@ -68495,7 +68495,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "val"
   },
   {
     "id": 134921173,
@@ -71626,7 +71626,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "val"
   },
   {
     "id": 134921175,
@@ -74352,7 +74352,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "test"
+    "split": "train"
   },
   {
     "id": 134921180,
@@ -74906,7 +74906,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "val"
   },
   {
     "id": 134921182,
@@ -79198,7 +79198,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "val"
   },
   {
     "id": 134921193,
@@ -80338,7 +80338,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "test"
+    "split": "val"
   },
   {
     "id": 134921194,
@@ -81719,7 +81719,7 @@
       50103,
       53692
     ],
-    "split": "val"
+    "split": "train"
   },
   {
     "id": 134921195,
@@ -81956,7 +81956,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "test"
+    "split": "val"
   },
   {
     "id": 134921196,
@@ -83600,7 +83600,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "val"
+    "split": "train"
   },
   {
     "id": 134921200,
@@ -84280,7 +84280,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "val"
   },
   {
     "id": 134921201,
@@ -84537,7 +84537,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "test"
   },
   {
     "id": 134921202,
@@ -85854,7 +85854,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "test"
   },
   {
     "id": 134921206,
@@ -87474,7 +87474,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "test"
+    "split": "val"
   },
   {
     "id": 134921207,
@@ -87791,7 +87791,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "val"
   },
   {
     "id": 134921208,
@@ -90773,7 +90773,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "val"
+    "split": "train"
   },
   {
     "id": 134921211,
@@ -92178,7 +92178,7 @@
     "project": 110892,
     "updated_by": 53692,
     "comment_authors": [],
-    "split": "test"
+    "split": "val"
   },
   {
     "id": 134921212,
@@ -95116,7 +95116,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "test"
   },
   {
     "id": 134921217,
@@ -95576,7 +95576,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "test"
   },
   {
     "id": 134921218,
@@ -95887,7 +95887,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "test"
+    "split": "val"
   },
   {
     "id": 134921220,
@@ -96580,7 +96580,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "val"
+    "split": "train"
   },
   {
     "id": 134921222,
@@ -98500,7 +98500,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "test"
   },
   {
     "id": 134921223,
@@ -99960,7 +99960,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "val"
+    "split": "train"
   },
   {
     "id": 134921225,
@@ -100577,7 +100577,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "test"
   },
   {
     "id": 134921226,
@@ -101468,7 +101468,7 @@
     "project": 110892,
     "updated_by": 50103,
     "comment_authors": [],
-    "split": "val"
+    "split": "train"
   },
   {
     "id": 134921547,
@@ -101644,6 +101644,821 @@
     "updated_by": 50103,
     "comment_authors": [],
     "split": "test"
+  },
+  {
+    "id": 134921548,
+    "annotations": [
+      {
+        "id": 53649118,
+        "completed_by": {
+          "id": 50103,
+          "email": "dt625@nau.edu",
+          "first_name": "",
+          "last_name": ""
+        },
+        "result": [
+          {
+            "id": "ChtYR4PfLB",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 32.124918490860054,
+              "y": 83.20965995130787,
+              "width": 2.978367290082557,
+              "height": 3.660856308507663,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Coleoptera"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "rUpThb_vsU",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 35.97500303657652,
+              "y": 83.67421965582437,
+              "width": 1.2349327788147235,
+              "height": 0.5811448370892691,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Entomobryomorpha"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "6xRtTC39B7",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 55.73392749761202,
+              "y": 68.0234408445412,
+              "width": 2.1429715867667207,
+              "height": 1.1221578840512403,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Entomobryomorpha"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "rbkOX6trtY",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 53.80888522475378,
+              "y": 60.827963247752095,
+              "width": 0.9080388079520034,
+              "height": 1.2349327788147093,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Polyxenida"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "P3AKO67Cwd",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 53.51831280620913,
+              "y": 52.65561397618409,
+              "width": 3.414225917899529,
+              "height": 3.1599750516729586,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Coleoptera"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "2L1wVpLN5B",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 47.08939804590899,
+              "y": 49.89517600001001,
+              "width": 3.668476784126071,
+              "height": 2.397222452993276,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Coleoptera"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "T8mlx83x_d",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 49.19604808035763,
+              "y": 56.759949388127126,
+              "width": 7.591204434478712,
+              "height": 8.172349271567995,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Coleoptera"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "vhA9DudHOL",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 47.34364891213555,
+              "y": 28.42913858002476,
+              "width": 1.9250422728582421,
+              "height": 1.0170034649062423,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Polyxenida"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "DQzPKY2NC9",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 41.423235884288516,
+              "y": 28.42913858002476,
+              "width": 1.598148301995522,
+              "height": 2.324579348357119,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Polyxenida"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "oWFmXbbXY2",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 49.74087136512884,
+              "y": 25.813986813123,
+              "width": 1.380218988087023,
+              "height": 0.8717172556339179,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Polyxenida"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "txoJLKdn7W",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 50.32201620221811,
+              "y": 27.52109977207276,
+              "width": 2.1792931390847983,
+              "height": 1.0533250172243243,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Polyxenida"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "ZXas3K5lLM",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 51.19373345785202,
+              "y": 26.068237679349558,
+              "width": 1.017003464906253,
+              "height": 1.0896465695424027,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Polyxenida"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "DKsebz08qE",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 52.61027399825715,
+              "y": 23.053548836948927,
+              "width": 4.068013859624955,
+              "height": 4.140656964261108,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Coleoptera"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "tH2i8d5hmo",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 58.530687026104175,
+              "y": 39.50721203703915,
+              "width": 0.9806819125881603,
+              "height": 0.7627525986796755,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Polyxenida"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "rvLtPD1ror",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 54.13577919561649,
+              "y": 34.712767131052594,
+              "width": 2.469865557629447,
+              "height": 1.7797560635859213,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Collembolans"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "yeTqbUarqk",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 60.23779998505393,
+              "y": 37.800099078089396,
+              "width": 1.5618267496774507,
+              "height": 2.397222452993276,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Coleoptera"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "_AGvUZMHCQ",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 68.08325528575921,
+              "y": 30.499467062155322,
+              "width": 2.1792931390848054,
+              "height": 2.7967595284921565,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Coleoptera"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "-uyLC_XHjv",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 66.70303629767217,
+              "y": 34.022657637009075,
+              "width": 4.576515592078081,
+              "height": 2.5061871099475184,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Coleoptera"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "s3tdJx7i8H",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 63.68834745527153,
+              "y": 35.2575904158238,
+              "width": 3.4505474702176073,
+              "height": 2.724116423855989,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Coleoptera"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "RfuPJf46EQ",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 61.36376810691442,
+              "y": 36.09298611913964,
+              "width": 2.578830214583668,
+              "height": 3.3052612609452723,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Coleoptera"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "yIbS2gbT5B",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 57.550005113516264,
+              "y": 34.69231383911521,
+              "width": 4.330677298703601,
+              "height": 2.927134362707649,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Coleoptera"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "aZxQjY_977",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 70.08094066325361,
+              "y": 38.74445943835947,
+              "width": 3.6321552318079995,
+              "height": 2.1066500344486414,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Coleoptera"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "cBhWEQ2S4X",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 69.97197600629936,
+              "y": 35.76609214827691,
+              "width": 2.9783672900825735,
+              "height": 3.414225917899522,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Coleoptera"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "58idryF7Ky",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 70.37151308179824,
+              "y": 28.828675655523643,
+              "width": 1.7071129589497502,
+              "height": 1.0896465695423991,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Entomobryomorpha"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "zDNH5BAHyT",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 35.99737009916175,
+              "y": 28.51669305971778,
+              "width": 1.6623788337794259,
+              "height": 2.2449589988544645,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Hemiptera"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "7g61liTPmb",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 66.20523479240342,
+              "y": 22.511963211530276,
+              "width": 3.4626912419533085,
+              "height": 2.826167116594238,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Coleoptera"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "3a0B28Gjsi",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 68.89136660141867,
+              "y": 17.814415166380396,
+              "width": 3.475421724460489,
+              "height": 2.3296782988141693,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Coleoptera"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "5e00P-FJBl",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 49.54103319050317,
+              "y": 14.262610546876827,
+              "width": 1.616771278412017,
+              "height": 1.0820910131104071,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Polyxenida"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "y0GrmgqEfU",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 47.18992082114223,
+              "y": 15.433814937537482,
+              "width": 1.4472481113510658,
+              "height": 0.776559432938057,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Entomobryomorpha"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "sxBN7DCa7C",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 29.98701205947277,
+              "y": 20.38150249399718,
+              "width": 1.4130835582971208,
+              "height": 1.1075519781247642,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Diptera"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "m8D59cC4vl",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 35.537502432603794,
+              "y": 16.167712784120184,
+              "width": 2.049607683656177,
+              "height": 1.1330129431391285,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Polyxenida"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "ufrykQ0urI",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 32.12573312067922,
+              "y": 18.077285160197373,
+              "width": 2.5715574664506136,
+              "height": 1.604040795904833,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Coleoptera"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "l-2Y_MtZ1A",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 31.45861678735734,
+              "y": 19.700096780310776,
+              "width": 2.2838876117339115,
+              "height": 2.018106376940458,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Mesostigmata"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "6NKFzn6vby",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 16.100462710493744,
+              "y": 52.32373886256018,
+              "width": 0.6202027238248782,
+              "height": 1.9846487162395974,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Entomobryomorpha"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "TJ3Ep_XOip",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 43.404607690154016,
+              "y": 29.429991021151274,
+              "width": 7.938594864958397,
+              "height": 3.743769169270152,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Centipede"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "19sw57LyW-",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 57.69133793381872,
+              "y": 30.383150115065146,
+              "width": 1.0068765164688402,
+              "height": 1.4227602950102103,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Hemiptera"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "6XN-5mUZ85",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 60.07719750545122,
+              "y": 21.627702145771554,
+              "width": 1.094430996161691,
+              "height": 0.8317675570828875,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Hemiptera"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          },
+          {
+            "id": "2cmMrnUUiZ",
+            "type": "rectanglelabels",
+            "value": {
+              "x": 76.86576898657168,
+              "y": 32.112351089000626,
+              "width": 1.8167554536284172,
+              "height": 1.729200973935491,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Coleoptera"
+              ]
+            },
+            "origin": "manual",
+            "to_name": "image",
+            "from_name": "label",
+            "image_rotation": 0,
+            "original_width": 10464,
+            "original_height": 10464
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-01-30T22:34:49.091211Z",
+        "updated_at": "2025-02-05T23:42:17.275507Z",
+        "draft_created_at": "2025-01-30T22:21:00.466790Z",
+        "lead_time": 1098.8690000000001,
+        "prediction": {},
+        "result_count": 38,
+        "unique_id": "235a113d-987d-45d0-8da1-8dc01b57dfaf",
+        "import_id": null,
+        "last_action": "updated",
+        "bulk_created": false,
+        "task": 134921548,
+        "project": 110892,
+        "updated_by": 50103,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": 50103
+      }
+    ],
+    "drafts": [],
+    "predictions": [],
+    "agreement": 100.0,
+    "data": {
+      "image": "s3://sallywag-bug-bucket-1/Lo7_P66_W3_2024_s1.jpg"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T19:07:08.359849Z",
+    "updated_at": "2025-02-05T23:42:17.461487Z",
+    "inner_id": 134,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 110892,
+    "updated_by": 50103,
+    "comment_authors": [],
+    "split": "train"
   },
   {
     "id": 134921549,
@@ -102173,7 +102988,7 @@
     "project": 110892,
     "updated_by": 50103,
     "comment_authors": [],
-    "split": "test"
+    "split": "train"
   },
   {
     "id": 134921551,
@@ -102448,7 +103263,7 @@
     "project": 110892,
     "updated_by": 50103,
     "comment_authors": [],
-    "split": "val"
+    "split": "train"
   },
   {
     "id": 134921552,
@@ -105653,7 +106468,7 @@
     "project": 110892,
     "updated_by": 50103,
     "comment_authors": [],
-    "split": "val"
+    "split": "test"
   },
   {
     "id": 134921559,
@@ -111829,7 +112644,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "train"
+    "split": "val"
   },
   {
     "id": 139989401,
@@ -112046,7 +112861,7 @@
     "comment_authors": [
       53692
     ],
-    "split": "val"
+    "split": "train"
   },
   {
     "id": 139989402,

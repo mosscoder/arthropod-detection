@@ -1,7 +1,7 @@
 names:
 - arthropod
 nc: 1
-path: /Users/kdoherty/arthropod_detector/data/yolo_dataset
+path: /home/kdoherty/arthropod-detection/data/yolo_dataset
 test: test/images
 train: train/images
 val: val/images
