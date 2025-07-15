@@ -4,3 +4,4 @@ data/raster/
 yolo11m.pt
 yolov8n.pt
 CLAUDE.md
+results/detection/arthropod_detection_standard/weights/*.pt
