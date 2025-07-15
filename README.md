@@ -19,7 +19,7 @@ The system uses an object detection model (YOLOv11 medium) combined with a techn
 4. **Validation**: The system compares its findings against human-annotated ground truth
 
 ## ToDo's 
-Currently the pipeline detects all bugs, and is not sensitive to species. I plan to stack a classifier on to the detector to attain species-level metrics.
+Currently the pipeline detects all bugs, and is not sensitive to species. I plan to stack a classifier on to the detector to attain species-level metrics. The detector is intetionally biased in favor of recall perormance. The outcome is that there are many false positives. In stacking a classifier, I hope to improve on precision. The reason for stacking is lack of rare species in the petri dish dataset. The plan is to augment with additional images from iNaturalist or similar for rare taxa, such as millipedes. 
 
 ## Performance Results
 
