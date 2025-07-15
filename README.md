@@ -61,7 +61,7 @@ Converts data into YOLO format and creates tiled datasets:
 - Test images: Resized to 5120px (no tiling)
 
 ### 6. Model Training (`05_yolo_train.py`)
-Trains the YOLOv8 object detection model using standard techniques:
+Trains the YOLOv11 object detection model using standard techniques:
 - 100 epochs with early stopping
 - AdamW optimizer with cosine learning rate scheduling
 - Standard data augmentations (mosaic, flip, HSV adjustments)
